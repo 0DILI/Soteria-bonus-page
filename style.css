@@ -137,11 +137,11 @@ body {
   width: 100%;
 }
 
-@media (max-width: 483px) {
+/* @media (max-width: 550px) {
   .inner-frame-wrapper {
-    max-width: 800px;
+    max-width: 2000px;
   }
-}
+} */
 
 .bg-grad2 {
   border-radius: 113.657px;
