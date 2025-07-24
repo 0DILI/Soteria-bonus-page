@@ -151,6 +151,25 @@ body {
   padding: 24px 36px;
 }
 
+.bg-grad21 {
+  border-radius: 113.657px;
+  border: 2.888px solid #fff;
+  background: linear-gradient(90deg, #fff 0%, #fef250 64.04%, #ff8227 100%);
+  box-shadow: 0 10px 80px -36.026px rgba(250, 117, 150, 0.5);
+  padding: 14px 40px;
+}
+
+.bg-grad3 {
+  border: 1.207px solid rgba(255, 255, 255, 0.12);
+  background: linear-gradient(
+    90deg,
+    rgba(254, 242, 80, 0.8) 0%,
+    rgba(218, 94, 255, 0.8) 53.9%,
+    rgba(146, 158, 255, 0.8) 100%
+  );
+  backdrop-filter: blur(10.831785202026367px);
+}
+
 @media (max-width: 768px) {
   .bg-grad2 {
     padding: 18px 25px;
